@@ -37,7 +37,7 @@ This bot is completely built using **Zoho Codeless Bot Builder**
 and integrated into a **frontend website** for real-time user interaction.
 
 ### 🟦 Driver Features
-- Register / Login  
+- Otp based Register / Login  
 - Return Load Finder  
 - Enter Pickup Location, Destination & Expected Price  
 - My Bookings  
@@ -46,7 +46,7 @@ and integrated into a **frontend website** for real-time user interaction.
 - Clean & simple UI  
 
 ### 🟩 Shipper Features
-- Register / Login  
+- Otp base Register / Login  
 - Post Load (Pickup, Delivery, Weight, Price)  
 - Previous Posted Loads  
 - Emergency Support  
