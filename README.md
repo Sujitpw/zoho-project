@@ -125,8 +125,3 @@ Participant – Zoho Hiring & Internship Challenge
 Frontend Developer | Automation Enthusiast  
 
 ---
-
-## ⭐ Support  
-If you like this project, feel free to ⭐ the repo on GitHub!
-
----
