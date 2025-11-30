@@ -1,4 +1,4 @@
-# 🚚 Return Load Finder – Smart Logistics Bot  
+# 🚚 Return Load Finder – Truckmate Bot  
 ### Built for **Zoho Hiring & Internship Challenge (2025)**  
 ### Powered by **Zoho Codeless Bot Builder + Web Integration**
 
@@ -91,9 +91,11 @@ and integrated into a **frontend website** for real-time user interaction.
 | Component | Technology |
 |----------|------------|
 | Bot Workflow | Zoho Codeless Bot Builder |
-| Integration | Zoho SalesIQ |
+| Integration | Zoho SalesIQ || Zoho Cliq |
 | Frontend | HTML, CSS, JavaScript |
-| Logic Blocks | Input, Condition, Message, API (optional future) |
+| Backend | Node ,Express,Nodemon,Ngrok|
+| Datbase | Mongo-DB|
+
 
 ---
 
