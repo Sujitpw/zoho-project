@@ -183,8 +183,4 @@ const BackendRun = async (req, res) => {
 
 
 
-<<<<<<< HEAD
 module.exports={driverprofile,findprofile,loadreturn,availableload,availableBooking,BackendRun}  
-=======
-module.exports={driverprofile,findprofile,loadreturn,availableload,availableBooking,BackendRun}  
->>>>>>> fd0bb258d95b67a14c726e37dafb960ddb13c7a2
