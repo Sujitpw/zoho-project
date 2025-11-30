@@ -94,7 +94,7 @@ and integrated into a **frontend website** for real-time user interaction.
 | Integration | Zoho SalesIQ || Zoho Cliq |
 | Frontend | HTML, CSS, JavaScript |
 | Backend | Node ,Express,Nodemon,Ngrok|
-| Datbase | Mongo-DB|
+| Database | Mongo-DB|
 
 
 ---
