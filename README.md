@@ -38,8 +38,7 @@ and integrated into a **frontend website** for real-time user interaction.
 
 ### 🟦 Driver Features
 - Otp based Registeration / Login  
-- Return Load Finder  
-- Enter Pickup Location, Destination & Expected Price  
+- Return Load Finder (Pickup Location, Destination & Expected Price)  
 - My Bookings  
 - My Earnings  
 - Emergency Support  
