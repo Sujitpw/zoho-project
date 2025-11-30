@@ -75,9 +75,9 @@ and integrated into a **frontend website** for real-time user interaction.
 
 ### **1️⃣ Driver-Side Bot Flow**
 
-<img width="1919" height="887" alt="Screenshot 2025-11-30 140601" src="https://github.com/user-attachments/assets/94c168bf-62dc-406e-ae7d-c0f3ba3ca774" />
 
----
+---<img width="1919" height="804" alt="Screenshot 2025-11-30 143741" src="https://github.com/user-attachments/assets/abb2f4e6-fbbc-4bd9-8ea0-c712ad925935" />
+
 
 ### **2️⃣ Shipper-Side Bot Flow**
 ![Shipper Bot](https://github.com/your-username/your-repo-name/blob/main/screenshots/shipper-bot.png)
