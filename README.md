@@ -118,10 +118,9 @@ and integrated into a **frontend website** for real-time user interaction.
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻 Team details
 
-**Sujit Singh**  
-Participant – Zoho Hiring & Internship Challenge  
-Frontend Developer | Automation Enthusiast  
+**Team Member1 - Sujit Kumar Verma**  
+LinkedIn profile - https://www.linkedin.com/in/sujit-kumar-ab85871b2/ 
 
 ---
