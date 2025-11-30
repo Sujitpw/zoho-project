@@ -163,6 +163,24 @@ const availableBooking = async (req, res) => {
 };
 
 
+const BackendRun = async (req, res) => {
+  try {
+    // Simple response to indicate backend is running
+    return res.status(200).json({
+      status: 'ok',
+      message: 'Backend is awake and running!'
+    });
+  } catch (error) {
+    console.error('Error in BackendRun:', error);
+    return res.status(500).json({
+      status: 'error',
+      message: 'Something went wrong on the backend'
+    });
+  }
+};
 
 
-module.exports={driverprofile,findprofile,loadreturn,availableload,availableBooking}  
+
+
+
+module.exports={driverprofile,findprofile,loadreturn,availableload,availableBooking,BackendRun}  
