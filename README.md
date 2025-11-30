@@ -104,8 +104,7 @@ and integrated into a **frontend website** for real-time user interaction.
 - Real-time load tracking  
 - Driver–Shipper live chat  
 - Price negotiation system  
-- Analytics dashboard  
-- OTP-based login  
+- Analytics dashboard   
 - Multi-language support  
 
 ---
