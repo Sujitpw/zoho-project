@@ -80,14 +80,13 @@ and integrated into a **frontend website** for real-time user interaction.
 
 
 ### **2️⃣ Shipper-Side Bot Flow**
-![Shipper Bot](https://github.com/your-username/your-repo-name/blob/main/screenshots/shipper-bot.png)
+<img width="1919" height="838" alt="Screenshot 2025-11-30 143537" src="https://github.com/user-attachments/assets/6e6d68b6-c4f4-4d61-9520-b99deefeba29" />
 
----
 
 ### **3️⃣ Bot Running on Frontend**
-![Frontend Bot](https://github.com/your-username/your-repo-name/blob/main/screenshots/frontend-bot.png)
 
----
+<img width="1900" height="922" alt="Screenshot 2025-11-30 143820" src="https://github.com/user-attachments/assets/a0ca1f9d-9da1-433e-8db7-ddf7eee8d448" />
+
 
 ## 🛠️ Tech Stack
 
