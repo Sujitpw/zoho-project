@@ -71,12 +71,11 @@ and integrated into a **frontend website** for real-time user interaction.
 
 ## 📸 Screenshots
 
-> Upload your screenshots in the `screenshots` folder and replace links below.
 
 ### **1️⃣ Driver-Side Bot Flow**
 
 
----<img width="1919" height="804" alt="Screenshot 2025-11-30 143741" src="https://github.com/user-attachments/assets/abb2f4e6-fbbc-4bd9-8ea0-c712ad925935" />
+<img width="1919" height="804" alt="Screenshot 2025-11-30 143741" src="https://github.com/user-attachments/assets/abb2f4e6-fbbc-4bd9-8ea0-c712ad925935" />
 
 
 ### **2️⃣ Shipper-Side Bot Flow**
