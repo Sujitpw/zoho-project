@@ -121,7 +121,7 @@ and integrated into a **frontend website** for real-time user interaction.
 ## 👨‍💻 Team details
 
 **Team Member1 - Sujit Kumar Verma**  
-LinkedIn profile - https://www.linkedin.com/in/sujit-kumar-ab85871b2/
+LinkedIn profile - https://www.linkedin.com/in/sujit-kumar-ab85871b2/<br>
 **Team Member2 - Sujit Kumar**
 Portfolio link - https://www.sujitportfolio.work/
 
